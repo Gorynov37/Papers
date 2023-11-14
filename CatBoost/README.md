@@ -1,5 +1,5 @@
 
-- [\href{https://catboost.ai}{catboost.ai}](https://catboost.ai) - Документация CatBoost
+- (https://catboost.ai) - Документация CatBoost
 - [\href{https://github.com/catboost/tutorials/}{github.com/catboost/tutorials}](https://github.com/catboost/tutorials/) - CatBoost Tutorials
 - [\href{https://arxiv.org/abs/1706.09516}{https://arxiv.org/abs/1706.09516}](https://arxiv.org/abs/1706.09516) - CatBoost: unbiased boosting with categorical features. 
 - [\href{https://arxiv.org/abs/2307.07771}{https://arxiv.org/abs/2307.07771}](https://arxiv.org/abs/2307.07771) - Enhanced Gradient Boosting for Zero-Inflated Insurance Claims and Comparative Analysis of CatBoost, XGBoost, and LightGBM.
