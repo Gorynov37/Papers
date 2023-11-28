@@ -1,1 +1,1 @@
-![QR код](QR.jpg)
+![QR код](/RecSys/QR.jpg)
